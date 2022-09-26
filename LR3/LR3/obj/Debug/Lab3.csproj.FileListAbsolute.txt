@@ -1,0 +1,21 @@
+C:\Study\Labs C#\Lab3\bin\Debug\Lab3.exe.config
+C:\Study\Labs C#\Lab3\bin\Debug\Lab3.exe
+C:\Study\Labs C#\Lab3\bin\Debug\Lab3.pdb
+C:\Study\Labs C#\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Study\Labs C#\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Study\Labs C#\Lab3\obj\Debug\Lab3.exe
+C:\Study\Labs C#\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Admin\Desktop\OOP_T1_L3-main\OOP_T1_L3-main\bin\Debug\Lab3.exe.config
+C:\Users\Admin\Desktop\OOP_T1_L3-main\OOP_T1_L3-main\bin\Debug\Lab3.exe
+C:\Users\Admin\Desktop\OOP_T1_L3-main\OOP_T1_L3-main\bin\Debug\Lab3.pdb
+C:\Users\Admin\Desktop\OOP_T1_L3-main\OOP_T1_L3-main\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\OOP_T1_L3-main\OOP_T1_L3-main\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP_T1_L3-main\OOP_T1_L3-main\obj\Debug\Lab3.exe
+C:\Users\Admin\Desktop\OOP_T1_L3-main\OOP_T1_L3-main\obj\Debug\Lab3.pdb
+F:\Лабораторные работы\2 курс\1 семестр\СТПМС\ЛР3\LR3\bin\Debug\Lab3.exe.config
+F:\Лабораторные работы\2 курс\1 семестр\СТПМС\ЛР3\LR3\bin\Debug\Lab3.exe
+F:\Лабораторные работы\2 курс\1 семестр\СТПМС\ЛР3\LR3\bin\Debug\Lab3.pdb
+F:\Лабораторные работы\2 курс\1 семестр\СТПМС\ЛР3\LR3\obj\Debug\Lab3.csprojAssemblyReference.cache
+F:\Лабораторные работы\2 курс\1 семестр\СТПМС\ЛР3\LR3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+F:\Лабораторные работы\2 курс\1 семестр\СТПМС\ЛР3\LR3\obj\Debug\Lab3.exe
+F:\Лабораторные работы\2 курс\1 семестр\СТПМС\ЛР3\LR3\obj\Debug\Lab3.pdb

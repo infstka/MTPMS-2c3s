@@ -1,0 +1,7 @@
+D:\Саша Комкова\vs\oop_lab5\oop_lab5\bin\Debug\oop_lab5.exe.config
+D:\Саша Комкова\vs\oop_lab5\oop_lab5\bin\Debug\oop_lab5.exe
+D:\Саша Комкова\vs\oop_lab5\oop_lab5\bin\Debug\oop_lab5.pdb
+D:\Саша Комкова\vs\oop_lab5\oop_lab5\obj\Debug\oop_lab5.csprojAssemblyReference.cache
+D:\Саша Комкова\vs\oop_lab5\oop_lab5\obj\Debug\oop_lab5.csproj.CoreCompileInputs.cache
+D:\Саша Комкова\vs\oop_lab5\oop_lab5\obj\Debug\oop_lab5.exe
+D:\Саша Комкова\vs\oop_lab5\oop_lab5\obj\Debug\oop_lab5.pdb
